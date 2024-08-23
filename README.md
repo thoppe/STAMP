@@ -1,11 +1,9 @@
 # STAMP
 Social Media Analysis of Provenance Testing
 
-This project updates the 2015 analysis by testing the retention of C2PA embedded metadata in images uploaded to various social media platforms, image hosting services, and online applications. The goal is to determine whether the content provenance data is preserved. This serves as a 2024 Update to the 2015 Analysis of the [Embedded Metadata Manifesto](https://www.embeddedmetadata.org/social-media-test-results.php).
+This project updates the [2015 analysis](https://www.embeddedmetadata.org/social-media-test-results.php) by testing the retention of C2PA embedded metadata in images uploaded to various social media platforms, image hosting services, and online applications. The goal is to determine whether the content provenance data is preserved.
 
-C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify).
-
-An image with C2PA embedded metadata was uploaded to various social media platforms, image hosting services, and online applications to check whether the content provenance data was retained. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify). The image was created with OpenAI's DALLE3 which contained a valid and signed C2PA manifest. 
+An image with C2PA embedded metadata was uploaded to various social media platforms, image hosting services, and online applications to check whether the content provenance data was retained. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify). The image was created with OpenAI's DALLE3 which contained a valid and signed C2PA manifest. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify).
 
 **TO DO**: LinkedIn : NEED PHONE
 
@@ -28,8 +26,6 @@ An image with C2PA embedded metadata was uploaded to various social media platfo
 | Google Slides   | ❌ No             | Application    | 08/22/24   | [🖼️](images/GoogleSlides_08-22-2024.png) | [Link](https://docs.google.com/presentation/d/1QVAaX3OKd-FFqLWyLOlyzz-D1rH5lVk98P_4ohTAweg/edit?usp=sharing)                |
 | Google Photos   | 🟢 Yes            | Application    | 08/22/24   | [🖼️](images/GooglePhotos_08-22-2024.png) | [Link](https://photos.app.goo.gl/MXEqdfLMEi8Nwc9k7)                                                                         |
 
-
-
 ## Excluded sites
 
 + WhatApp (mobile chat)
@@ -42,6 +38,6 @@ An image with C2PA embedded metadata was uploaded to various social media platfo
 
 ## Notes
 
-+ In Google Sheets used right-click : Save As.
++ In Google Sheets used right-click -> Save As.
 + In Google Docs and Google Slides saved to Keep and then downloaded.
-+ + Instagram does not provide an easy way to download files, image measured was done by finding the original within the source
++ Instagram does not provide an easy way to download files. Extracted image was taken by finding the original within the source.
