@@ -1,9 +1,9 @@
 # STAMP
-Social Media Analysis of Provenance Testing
+Social media Testing and Analysis of Metadata Preservation
 
 This project updates the [2015 analysis](https://www.embeddedmetadata.org/social-media-test-results.php) by testing the retention of C2PA embedded metadata in images uploaded to various social media platforms, image hosting services, and online applications. The goal is to determine whether the content provenance data is preserved.
 
-An image with C2PA embedded metadata was uploaded to various social media platforms, image hosting services, and online applications to check whether the content provenance data was retained. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify). The image was created with OpenAI's DALLE3 which contained a valid and signed C2PA manifest. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify).
+An [image](images/Original_08-06-2024.png) with C2PA embedded metadata was uploaded to various social media platforms, image hosting services, and online applications to check whether the content provenance data was retained. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify). The image was created with OpenAI's DALLE3 which contained a valid and signed C2PA manifest. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify).
 
 **TO DO**: LinkedIn : NEED PHONE
 
