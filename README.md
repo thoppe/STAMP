@@ -14,6 +14,7 @@ An [image](images/Original_08-06-2024.png) with C2PA embedded metadata was uploa
 | Facebook        | ❌ No             | Social Media   | 08/22/24   | [🖼️](images/Facebook_08-22-2024.jpg)  | [Link](https://www.facebook.com/share/p/kMAWMf4uqatV27Uf/)                                                                  |
 | Instagram       | ❌ No             | Social Media   | 08/07/24   | [🖼️](images/Instagram_08-07-2024.jpg) | [Link](https://www.instagram.com/p/C-YxEBYPiBN/)                                                                             |
 | Twitter/X       | ❌ No             | Social Media   | 08/08/24   | [🖼️](images/Twitter_08-08-2024.jpeg)  | [Link](https://x.com/stee70184/status/1821523974196449456)                                                                  |
+| LinkedIn        | ❌ No             | Social Media   | 08/23/24   | [🖼️](images/LinkedIn_08_23_2024.jpeg)  | [Link]()                                                                  |
 | Reddit          | ❌ No             | Social Media   | 08/22/24   | [🖼️](images/Reddit_08-22-2024.png)    | [Link](https://www.reddit.com/r/test/comments/1eypggi/testing_c2pa/)                                                        |
 | Quora           | ❌ No             | Social Media   | 08/22/24   | [🖼️](images/Quora_08-22-2024.webp)    | [Link](https://www.quora.com/profile/Jaxon-Steele-12/Testing-C2PA-https-x-com-hashtag-C2PA-src-hashtag_click)               |
 | Pintrest        | ❌ No             | Social Media   | 08/22/24   | [🖼️](images/Pintrest_08-22-2024.png)  | [Link](https://www.pinterest.com/pin/1142788474188235637)                                                                   |
@@ -41,3 +42,4 @@ An [image](images/Original_08-06-2024.png) with C2PA embedded metadata was uploa
 + In Google Sheets used right-click -> Save As.
 + In Google Docs and Google Slides saved to Keep and then downloaded.
 + Instagram does not provide an easy way to download files. Extracted image was taken by finding the original within the source.
++ LinkedIn was tested with a personal account and the test posted was deleted.
