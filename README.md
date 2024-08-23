@@ -2,13 +2,26 @@
 Social Media Analysis of Provenance Testing
 
 
-| Platform      | Category | URL          | Date Tested | C2PA Preserved |
-|---------------|----------|--------------|-----------|-----------|
-| Facebook      | Social   |              |           |           |
-| Twitter/X     | Social   |              |           |           |
-| Instagram     | Social   |              |           |           |
 
-+ Instagram does not provide an easy way to download files
+| Site            | C2PA preserved | Category       | Date       | Archive image                          | Post URL                                                                                                                     |
+|-----------------|----------------|----------------|------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| DALLE3 Original | Yes            | Generative AI  | 08/06/24   | [🖼️](images/Original_08-06-2024.png)  |                                                                                                                             |
+| Instagram       | No             | Social Media   | 08/07/24   | [🖼️](images/Instagram_08-07-2024.jpg) | [Link](https://www.instagram.com/p/C-YxEBYPiBN/)                                                                             |
+| Twitter/X       | No             | Social Media   | 08/08/24   | [🖼️](images/Twitter_08-08-2024.jpeg)  | [Link](https://x.com/stee70184/status/1821523974196449456)                                                                  |
+| Reddit          | No             | Social Media   | 08/22/24   | [🖼️](images/Reddit_08-22-2024.png)    | [Link](https://www.reddit.com/r/test/comments/1eypggi/testing_c2pa/)                                                        |
+| Flickr          | Yes            | Image hosting  | 08/22/24   | [🖼️](images/Flickr_08-22-2024.png)    | [Link](https://www.flickr.com/photos/201306481@N06/53940879615/in/dateposted-public/)                                        |
+| Quora           | No             | Social Media   | 08/22/24   | [🖼️](images/Quora_08-22-2024.webp)    | [Link](https://www.quora.com/profile/Jaxon-Steele-12/Testing-C2PA-https-x-com-hashtag-C2PA-src-hashtag_click)               |
+| Pintrest        | No             | Social Media   | 08/22/24   | [🖼️](images/Pintrest_08-22-2024.png)  | [Link](https://www.pinterest.com/pin/1142788474188235637)                                                                   |
+| Tumblr          | No             | Social Media   | 08/22/24   | [🖼️](images/Tumblr_08-22-2024.jpg)    | [Link](https://www.tumblr.com/jaxon-steele/759534908388622336/testing-c2pa)                                                 |
+| Imgur           | No             | Image hosting  | 08/22/24   | [🖼️](images/Imgur_08-22-2024.png)     | [Link](https://imgur.com/a/xPNFm66)                                                                                         |
+| Yelp            | No             | Social Media   | 08/22/24   | [🖼️](images/Yelp_08-22-2024.jpg)      | [Link](https://www.yelp.com/biz_photos/lafayette-park-washington?select=BMG8RM76QCYMJk2mBcH8mA)                             |
+| Facebook        | No             | Social Media   | 08/22/24   | [🖼️](images/Facebook_08-22-2024.jpg)  | [Link](https://www.facebook.com/share/p/kMAWMf4uqatV27Uf/)                                                                  |
+| Google Sheets   | Yes            | Application    | 08/22/24   | [🖼️](images/GoogleSheets_08-22-2024.png) | [Link](https://docs.google.com/spreadsheets/d/1yumsdwVOMhnpk48WBfC5W81l456zVJod0g1agCrVAtU/edit?usp=sharing)                |
+| Google Docs     | No             | Application    | 08/22/24   | [🖼️](images/GoogleDocs_08-22-2024.png)   | [Link](https://docs.google.com/document/d/15Rm0kVvLYQmsyOqK0V3jTYlLmVX9UWaumqj8jmTLvTM/edit?usp=sharing)                    |
+| Google Slides   | No             | Application    | 08/22/24   | [🖼️](images/GoogleSlides_08-22-2024.png) | [Link](https://docs.google.com/presentation/d/1QVAaX3OKd-FFqLWyLOlyzz-D1rH5lVk98P_4ohTAweg/edit?usp=sharing)                |
+| Google Photos   | Yes            | Application    | 08/22/24   | [🖼️](images/GooglePhotos_08-22-2024.png) | [Link](https://photos.app.goo.gl/MXEqdfLMEi8Nwc9k7)                                                                         |
+
+
 https://www.instagram.com/p/C-YxEBYPiBN/
 08-07-2024
 
@@ -23,8 +36,11 @@ Original OpenAI
 + Clubhouse (mobile chat)
 + Twitch (video)
 + Youtube (video)
++ TikTok (video)
++ Facebook Messenger (mobile chat)
 
 ## Notes
 
 + In Google Sheets used right-click : Save As.
 + In Google Docs and Google Slides saved to Keep and then downloaded.
++ + Instagram does not provide an easy way to download files, image measured was done by finding the original within the source
