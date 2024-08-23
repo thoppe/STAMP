@@ -14,5 +14,17 @@ https://www.instagram.com/p/C-YxEBYPiBN/
 
 Original OpenAI
 
++ Ongoing project: LinkedIn : NEED PHONE
 
+## Excluded sites
 
++ WhatApp (mobile chat)
++ Snapchat (mobile chat)
++ Clubhouse (mobile chat)
++ Twitch (video)
++ Youtube (video)
+
+## Notes
+
++ In Google Sheets used right-click : Save As.
++ In Google Docs and Google Slides saved to Keep and then downloaded.
