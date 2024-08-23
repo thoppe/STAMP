@@ -5,7 +5,6 @@ This project updates the [2015 analysis](https://www.embeddedmetadata.org/social
 
 An [image](images/Original_08-06-2024.png) with C2PA embedded metadata was uploaded to various social media platforms, image hosting services, and online applications to check whether the content provenance data was retained. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify). The image was created with OpenAI's DALLE3 which contained a valid and signed C2PA manifest. C2PA metadata was verified using the official [verification tool](https://contentcredentials.org/verify).
 
-**TO DO**: LinkedIn : NEED PHONE
 
 
 | Site            | C2PA preserved | Category       | Date       | Archive image                          | Post URL                                                                                                                     |
